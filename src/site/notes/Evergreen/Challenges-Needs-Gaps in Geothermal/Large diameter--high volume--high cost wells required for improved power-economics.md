@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/evergreen/challenges-needs-gaps-in-geothermal/large-diameter-high-volume-high-cost-wells-required-for-improved-power-economics/","tags":["need"]}
+---
+
+## Sources
+[[Inputs/Papers-Documents-Publications-Articles/Project Innerspace Sharing/2024-12 GEODE SOPO Milestone 1-4.2-Mattie\|2024-12 GEODE SOPO Milestone 1-4.2-Mattie]]
+
+## Description
+
+Large diameter wellbores and tubulars with multi- laterals / fracs for high flowrates (50-100kbpd) for thermal and economic viability High rate well designs and data available from offshore and overseas.
+
+## Teams working on it
+
+
