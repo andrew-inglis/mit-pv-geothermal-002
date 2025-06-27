@@ -29,7 +29,7 @@ For any given "node", there will be "links" to other "nodes" that are relevant t
 Due to the privacy and/or confidential information of some types of nodes, they have not been included in this public portal, but have been reported on as needed within the Status Update Report to Project Innerspace / GEODE / DOE 
 Some of these "nodes" may be "linked" to "nodes" that are available on this portal, so their titles may be visible, but the "node" itself will give an error message when the link is clicked on.
 The following is a general list of "nodes" that are not included in this portal:
-- MIT Student names
+- People
 - Venture ideas and explorations
 - Meeting notes.
 
