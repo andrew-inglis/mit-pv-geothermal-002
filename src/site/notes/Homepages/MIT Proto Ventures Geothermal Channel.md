@@ -20,7 +20,9 @@ There are several types of nodes that will be described here:
 - **Companies** - Companies in the geothermal ecosystem
 - **General Technology and Approaches** - Technology that may have already been developed, or needs to be advanced, that is relevant the geothermal ecosystem
 - **Organizations** - groups, including investors, that are relevant to the geothermal ecosystem
-- **People** - the people that I have engaged with at MIT and geothermal ecosystem
+- **Inputs/Classes** - short courses that discussed different aspects of the geothermal landscape
+- **Inputs/Events** - Geothermal meetings that were attended
+- **Podcasts-Videos** - Geothermal relevant content
 
 For any given "node", there will be "links" to other "nodes" that are relevant to that topic.
 
